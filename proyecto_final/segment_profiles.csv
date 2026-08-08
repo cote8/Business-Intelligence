@@ -1,0 +1,5 @@
+Cluster,Customers,Avg_Recency_days,Avg_Frequency_orders,Avg_Monetary_GBP,Median_Monetary_GBP,Total_Revenue_GBP,Pct_of_Customers,Pct_of_Revenue,Segment,Description
+0,713,12.2,13.8,8088.0,3722.8,5766757.1,16.4,64.9,Champions,"Recent, frequent and high-spending. The core of the business."
+1,1622,181.5,1.3,341.0,296.1,553099.8,37.4,6.2,Low Engagement,"Few orders, low spend, long inactive. Mostly one-time buyers."
+2,837,17.7,2.2,557.3,480.3,466479.0,19.3,5.2,Loyal Customers,"Still buying regularly, with solid but smaller baskets."
+3,1166,71.6,4.1,1801.8,1345.2,2100873.0,26.9,23.6,At Risk,Used to spend meaningfully but have not returned in a long time.
