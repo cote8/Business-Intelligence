@@ -1,0 +1,6 @@
+Segment,Customers,AvgRecency,AvgFrequency,AvgMonetary,TotalRevenue,AvgOrderValue,AvgProductDiversity,CustomerShare_%,RevenueShare_%
+High-Value / Champions,365,12.7,20.0,13175.3,4808986.6,815.3,192.0,8.4,54.1
+Active Regular,934,18.4,5.7,2093.3,1955185.9,404.1,95.4,21.5,22.0
+At-Risk / Need Attention,1014,105.0,3.1,1454.2,1474548.1,614.1,57.9,23.4,16.6
+Recent Low-Value / Develop,840,28.0,1.6,384.0,322545.1,264.8,31.5,19.4,3.6
+Low-Engagement / Lost,1185,210.6,1.2,275.1,325943.2,246.1,18.9,27.3,3.7
