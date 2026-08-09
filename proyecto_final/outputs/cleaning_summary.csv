@@ -1,0 +1,5 @@
+Step,Rows,Rows_removed_from_previous_step
+Original dataset,541909,0
+After removing missing CustomerID,406829,135080
+After removing cancelled invoices,397924,8905
+After keeping only positive Quantity and UnitPrice,397884,40
