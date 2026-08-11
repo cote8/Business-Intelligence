@@ -1,4 +1,4 @@
 Segment,Customers,AvgRecency,AvgFrequency,AvgMonetary,TotalRevenue,AvgOrderValue,AvgProductDiversity,CustomerShare_%,RevenueShare_%
 High-Value / Champions,805,17.3,13.0,7647.0,6155852.3,645.0,148.9,18.6,69.3
-Regular / Growth Potential,1677,45.4,3.3,1233.8,2069137.8,453.2,62.3,38.7,23.3
-At-Risk / Low-Engagement,1856,167.8,1.3,356.8,662218.8,286.9,22.9,42.8,7.5
+At-Risk Customers,1677,45.4,3.3,1233.8,2069137.8,453.2,62.3,38.7,23.3
+Low-Engagement Customers,1856,167.8,1.3,356.8,662218.8,286.9,22.9,42.8,7.5
